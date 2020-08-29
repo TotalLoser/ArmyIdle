@@ -1,4 +1,3 @@
-//this is to test git functionality
 package init;
 /**
  * Hello world!
